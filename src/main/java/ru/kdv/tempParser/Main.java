@@ -1,6 +1,6 @@
-package ru.kdv;
+package ru.kdv.tempParser;
 
-import ru.kdv.parser.Parser;
+import ru.kdv.tempParser.parser.Parser;
 import ru.kdv.writer.Writer;
 
 import java.io.*;
