@@ -29,7 +29,7 @@ public class ClientInfo {
     @JsonProperty("DOB")
     String DOB;
     @JsonProperty("INN")
-    Long INN;
+    Integer INN;
     Address address;
     List<PhoneNumber> phoneNumbers;
 }

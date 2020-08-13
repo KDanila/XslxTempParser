@@ -8,4 +8,8 @@ public class ParserTest {
     public void parseFiles() {
         Parser.parseFiles();
     }
+    @Test
+    public void createFiles() {
+       // Parser.createXlsFileFromErrorRows(Collections.emptyList(), notValidCells);
+    }
 }
